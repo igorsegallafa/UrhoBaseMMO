@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Header">
+      <UniqueIdentifier>{a8342644-d150-4dec-af10-d10a6daf2f48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server">
+      <UniqueIdentifier>{f9952f9b-f050-422e-9a43-e8bb6ffe33be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server">
+      <UniqueIdentifier>{4a129acd-3d05-4bbf-9507-ad298c86113d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library">
+      <UniqueIdentifier>{9fdbed94-bc09-44ba-b3a4-137c3b90b4da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library">
+      <UniqueIdentifier>{2cb4c24a-2b2f-4fef-992e-dd3a69a20415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library\INI">
+      <UniqueIdentifier>{2f587242-d607-4e85-b8c9-6e2e2d35885c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library\INI">
+      <UniqueIdentifier>{7d73ddbd-d355-4bab-aff9-360cd98db3f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Globals">
+      <UniqueIdentifier>{5e976c87-c3b4-46d1-9ae2-5d649031ce8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Globals">
+      <UniqueIdentifier>{256874ce-b075-4dd5-b95e-49e658689bf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Definitions">
+      <UniqueIdentifier>{4e223707-cc53-4f70-a6d4-7466bcbf615e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Definitions">
+      <UniqueIdentifier>{f225397f-b6dc-4a2e-847d-c60ecf2b1bac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Handler">
+      <UniqueIdentifier>{5d678a37-d3fb-4e6b-bf41-bafd6e88d780}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{f17021ec-71cd-407e-a9f9-a7ea50461fba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Net">
+      <UniqueIdentifier>{87fc24f0-ed4a-45c7-a2d4-36a313720cdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Account">
+      <UniqueIdentifier>{d39ca691-8c9b-4f53-a1b8-5aecc1c0905c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{a5fd06d9-198c-4fba-adc9-42abbd00a3ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Net">
+      <UniqueIdentifier>{79bdecb0-6148-4154-b74a-316228fd6d69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Account">
+      <UniqueIdentifier>{fdd82177-a06e-4dfe-81ad-46269337142d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Handler">
+      <UniqueIdentifier>{e4cb56cf-e02b-4021-bc3a-61d028fe53d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\User">
+      <UniqueIdentifier>{c98737e9-3c8b-4292-bfad-841e9a394947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\User">
+      <UniqueIdentifier>{ba265b8a-ba8f-4040-af5b-48d23fa9e82f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Handler\Account">
+      <UniqueIdentifier>{c052cb72-7a0c-4156-b0f1-a7ad03d09fd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Handler\User">
+      <UniqueIdentifier>{ab7a4ea1-0a87-4a7b-a09a-1d2491e91b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Handler\Account">
+      <UniqueIdentifier>{5891fc61-6148-47ad-b6ec-7808fb9ef4af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Handler\User">
+      <UniqueIdentifier>{55012e24-ee9f-4e83-9904-5acfd180ce8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Map">
+      <UniqueIdentifier>{4a75ed88-be9b-4bf5-a9cb-614363334abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Map">
+      <UniqueIdentifier>{e0a5768c-4323-4087-bf22-da6851b389a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Handler\Map">
+      <UniqueIdentifier>{5174a997-c9a6-4422-b78b-d288d6c524f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Handler\Map">
+      <UniqueIdentifier>{9bd87865-4331-430b-992b-ff40c0782a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Handler\Character">
+      <UniqueIdentifier>{a255fb04-ac11-4d55-89da-bbea30095d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Server\Handler\Character">
+      <UniqueIdentifier>{044b3a1e-043d-4dfa-9d1f-240b6b452765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit">
+      <UniqueIdentifier>{295a1dfe-be6e-4ccd-b13c-f60b4a951e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit">
+      <UniqueIdentifier>{cab849b8-62ed-4d34-9387-84e100545a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library\Database">
+      <UniqueIdentifier>{ff05d8b7-0d6b-4f5a-8e31-957ae23f4f0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library\Database">
+      <UniqueIdentifier>{9bcb9be2-667c-47d1-a0c3-ee47a971efd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit\Character">
+      <UniqueIdentifier>{70dab799-06e4-4547-9a45-d8351b4852b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit\Character">
+      <UniqueIdentifier>{ac079721-8e22-4f95-8531-634cbc57963b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit\NPC">
+      <UniqueIdentifier>{3c13f325-27e9-4999-956d-7db846bca675}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit\NPC">
+      <UniqueIdentifier>{ac28360d-c0a7-412b-90fa-a03c2ce8b03b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library\Database\Entries">
+      <UniqueIdentifier>{27a2b25f-8e58-4a7c-9fc7-2cb4549ba09e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library\Database\Entries">
+      <UniqueIdentifier>{7ea5145c-2623-4d8f-8caf-a28012647c1c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CServerConfig.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>Header Files\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\packet.h">
+      <Filter>Header Files\Server\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="CServerNet.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CNet.h">
+      <Filter>Header Files\Core\Net</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\ENet.h">
+      <Filter>Header Files\Core\Net</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PNet.h">
+      <Filter>Header Files\Core\Net</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\log.h">
+      <Filter>Header Files\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="CServerNetwork.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="CServer.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="CServerHandler.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CUser.h">
+      <Filter>Header Files\Core\User</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EUser.h">
+      <Filter>Header Files\Core\User</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PUser.h">
+      <Filter>Header Files\Core\User</Filter>
+    </ClInclude>
+    <ClInclude Include="CAccountHandler.h">
+      <Filter>Header Files\Server\Handler\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserHandler.h">
+      <Filter>Header Files\Server\Handler\User</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CCharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\ECharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PCharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PMap.h">
+      <Filter>Header Files\Core\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EMap.h">
+      <Filter>Header Files\Core\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CMap.h">
+      <Filter>Header Files\Core\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="CMapHandler.h">
+      <Filter>Header Files\Server\Handler\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="CCharacterHandler.h">
+      <Filter>Header Files\Server\Handler\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\INIParser.h">
+      <Filter>Header Files\Library\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseModel.h">
+      <Filter>Header Files\Library\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CNonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\ENonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PNonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseKey.h">
+      <Filter>Header Files\Library\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseSubArray.h">
+      <Filter>Header Files\Library\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseQueryBuilder.h">
+      <Filter>Header Files\Library\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Header Files\Library\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="UserEntry.h">
+      <Filter>Header Files\Library\Database\Entries</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Header Files\Header</Filter>
+    </ClCompile>
+    <ClCompile Include="CServerConfig.cpp">
+      <Filter>Source Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="CServerNet.cpp">
+      <Filter>Source Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\log.cpp">
+      <Filter>Source Files\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="CServerNetwork.cpp">
+      <Filter>Source Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="CServer.cpp">
+      <Filter>Source Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="CServerHandler.cpp">
+      <Filter>Source Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CUser.cpp">
+      <Filter>Source Files\Core\User</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EUser.cpp">
+      <Filter>Source Files\Core\User</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PUser.cpp">
+      <Filter>Source Files\Core\User</Filter>
+    </ClCompile>
+    <ClCompile Include="CAccountHandler.cpp">
+      <Filter>Source Files\Server\Handler\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserHandler.cpp">
+      <Filter>Source Files\Server\Handler\User</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CCharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\ECharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PCharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CMap.cpp">
+      <Filter>Source Files\Core\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EMap.cpp">
+      <Filter>Source Files\Core\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PMap.cpp">
+      <Filter>Source Files\Core\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="CMapHandler.cpp">
+      <Filter>Source Files\Server\Handler\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharacterHandler.cpp">
+      <Filter>Source Files\Server\Handler\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\INIParser.cpp">
+      <Filter>Source Files\Library\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseModel.cpp">
+      <Filter>Source Files\Library\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CNonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\ENonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PNonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseKey.cpp">
+      <Filter>Source Files\Library\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseSubArray.cpp">
+      <Filter>Source Files\Library\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseQueryBuilder.cpp">
+      <Filter>Source Files\Library\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>Source Files\Library\Database</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

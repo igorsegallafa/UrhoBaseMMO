@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Header">
+      <UniqueIdentifier>{72d379e1-035d-47e1-8a59-78193168d639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{09e58746-3fa9-4a08-a002-fa3b322a33d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{70037b7a-4de3-4a9f-8d70-e7b69f76886f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library">
+      <UniqueIdentifier>{928a3d4c-0e5f-4ce0-a7a4-2fc8eaf1861e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library">
+      <UniqueIdentifier>{00f246d8-260d-4860-81f8-3dc8f057a336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screen">
+      <UniqueIdentifier>{75bcc26a-a85d-4ed1-bdd4-5503b1e56e86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screen">
+      <UniqueIdentifier>{8c39e1fd-221b-437c-8795-c8ca07b3e3aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screen\Login">
+      <UniqueIdentifier>{81a97541-9751-4711-b98e-4f04f3ab327d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screen\Login">
+      <UniqueIdentifier>{6e80fae7-31ff-4249-9fb0-879d22e8b8fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screen\Character">
+      <UniqueIdentifier>{5588c3c7-5a28-4688-8668-99a21430ff86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Manager">
+      <UniqueIdentifier>{e46cae0e-6970-4644-83d2-86cdc59bcb42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Manager\Screen">
+      <UniqueIdentifier>{a51fd56c-859c-4651-9e8c-b52a5e3c5ccc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Manager">
+      <UniqueIdentifier>{a17742dc-ef84-4b5b-a782-6fa3be438419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Manager\Screen">
+      <UniqueIdentifier>{b50b4ef7-3ba6-469b-a1f4-b68757faea99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screen\Character">
+      <UniqueIdentifier>{4f1b52af-fb4c-42e2-a2bf-6962121836f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library\INI">
+      <UniqueIdentifier>{e5a8528f-93f8-428c-be83-4eecf4dff2f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library\INI">
+      <UniqueIdentifier>{1b2c9f1b-f1e9-410a-9599-b9c35e237e21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Globals">
+      <UniqueIdentifier>{84ba4bef-1f3f-4bda-af90-6350941be87c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Globals">
+      <UniqueIdentifier>{f1b4222d-e8ef-4e53-9b94-454a7059bcb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Handler">
+      <UniqueIdentifier>{383a95cb-0acb-4419-a0ff-69f8ad4cb83a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Handler">
+      <UniqueIdentifier>{149dd05c-4cd1-4003-8662-99e35c00500d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Handler\Account">
+      <UniqueIdentifier>{77d0c2e9-2e53-42b3-9c48-333f2e9e5a51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Handler\Account">
+      <UniqueIdentifier>{e8191acd-03f1-446b-b753-dacd2dd6592b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{8aca0822-9857-48f9-b718-644c1033b24b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{142841f0-3555-4d6b-84fb-c0b944209ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Account">
+      <UniqueIdentifier>{6379103c-7689-49a0-9886-4088781d9e08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Account">
+      <UniqueIdentifier>{0375e041-31fb-435b-a614-0709e1f5ab03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Handler\UserInterface">
+      <UniqueIdentifier>{2a0ad183-d8b3-4e94-a937-9930cf9b008f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Handler\UserInterface">
+      <UniqueIdentifier>{4035d342-5b7d-4254-b58f-f3fac5868e0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\UI">
+      <UniqueIdentifier>{b681652c-0971-461e-a23f-0423c3d72855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\UI">
+      <UniqueIdentifier>{88aa644f-4911-4ee8-8753-35ab529b6ca7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screen\Test">
+      <UniqueIdentifier>{d365164c-e58c-42a3-b3d3-2689122f58dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screen\Test">
+      <UniqueIdentifier>{35ff83cf-287f-411c-807b-9dbd8ec63c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Map">
+      <UniqueIdentifier>{3ba7ac0f-2532-4473-b359-f56335795a56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screen\World">
+      <UniqueIdentifier>{0b91e680-cbc5-4587-a3be-d858d84a14bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screen\World">
+      <UniqueIdentifier>{095d548c-06ee-4fa8-838e-3c90cdcb9da2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Handler\Character">
+      <UniqueIdentifier>{31b2eef4-970e-46cb-83fa-f5fe86272f36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Handler\Character">
+      <UniqueIdentifier>{0b9d4378-01b9-4879-a43c-60ed62ff2cbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Manager\Camera">
+      <UniqueIdentifier>{bfff2675-cc7a-4ffc-a533-c7956d678f6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Manager\Camera">
+      <UniqueIdentifier>{a418eaff-b2ed-408a-a7aa-4e07d9c6aea7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit">
+      <UniqueIdentifier>{1bd457be-fc94-4d96-b847-04647dcb7445}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit">
+      <UniqueIdentifier>{37777686-16e9-4790-b65d-4b614d4e92e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit\Character">
+      <UniqueIdentifier>{34ce156e-0ed5-4387-937b-ac089dbdba60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit\Character">
+      <UniqueIdentifier>{20dbbd38-b8a0-41e3-b596-7119bba8fec1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Unit\NPC">
+      <UniqueIdentifier>{387d8669-a346-4b92-994a-4d54d2af2e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Unit\NPC">
+      <UniqueIdentifier>{2b2c59c3-4e5e-48ac-81ed-05eb4f20f413}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library\ProcSky">
+      <UniqueIdentifier>{1fe774e5-c2a9-46e1-994b-b8c9d1e86330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library\ProcSky">
+      <UniqueIdentifier>{16d4a878-a501-47ca-ae66-97c0dd5ef579}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>Header Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CScreen.h">
+      <Filter>Header Files\Game\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CLoginScreen.h">
+      <Filter>Header Files\Game\Screen\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="CScreenManager.h">
+      <Filter>Header Files\Game\Manager\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CCharacterScreen.h">
+      <Filter>Header Files\Game\Screen\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameConfig.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\log.h">
+      <Filter>Header Files\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="CGame.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CAccountHandler.h">
+      <Filter>Header Files\Game\Handler\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameHandler.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CAccount.h">
+      <Filter>Header Files\Core\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameNetwork.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserInterfaceHandler.h">
+      <Filter>Header Files\Game\Handler\UserInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files\Game\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UITitleBox.h">
+      <Filter>Header Files\Game\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CTestScreen.h">
+      <Filter>Header Files\Game\Screen\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CCharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\ECharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PCharacter.h">
+      <Filter>Header Files\Core\Unit\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorldScreen.h">
+      <Filter>Header Files\Game\Screen\World</Filter>
+    </ClInclude>
+    <ClInclude Include="CCharacterHandler.h">
+      <Filter>Header Files\Game\Handler\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CCameraManager.h">
+      <Filter>Header Files\Game\Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\EUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PUnit.h">
+      <Filter>Header Files\Core\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\INIParser.h">
+      <Filter>Header Files\Library\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\CNonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\ENonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\shared\PNonPlayerCharacter.h">
+      <Filter>Header Files\Core\Unit\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcSky.h">
+      <Filter>Header Files\Library\ProcSky</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Header Files\Header</Filter>
+    </ClCompile>
+    <ClCompile Include="CScreen.cpp">
+      <Filter>Source Files\Game\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CLoginScreen.cpp">
+      <Filter>Source Files\Game\Screen\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="CScreenManager.cpp">
+      <Filter>Source Files\Game\Manager\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharacterScreen.cpp">
+      <Filter>Source Files\Game\Screen\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameConfig.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\log.cpp">
+      <Filter>Source Files\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="CGame.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CAccountHandler.cpp">
+      <Filter>Source Files\Game\Handler\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameHandler.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EAccount.cpp">
+      <Filter>Source Files\Core\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameNetwork.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserInterfaceHandler.cpp">
+      <Filter>Source Files\Game\Handler\UserInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="UITitleBox.cpp">
+      <Filter>Source Files\Game\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CTestScreen.cpp">
+      <Filter>Source Files\Game\Screen\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CCharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\ECharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PCharacter.cpp">
+      <Filter>Source Files\Core\Unit\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CWorldScreen.cpp">
+      <Filter>Source Files\Game\Screen\World</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharacterHandler.cpp">
+      <Filter>Source Files\Game\Handler\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CCameraManager.cpp">
+      <Filter>Source Files\Game\Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\EUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PUnit.cpp">
+      <Filter>Source Files\Core\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\INIParser.cpp">
+      <Filter>Source Files\Library\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\CNonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\ENonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\shared\PNonPlayerCharacter.cpp">
+      <Filter>Source Files\Core\Unit\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcSky.cpp">
+      <Filter>Source Files\Library\ProcSky</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
