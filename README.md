@@ -1,4 +1,4 @@
-# MyGame-MMORPG
+# Urho MMO
 ###### Incomplete project, only for studies.
 
 Features I've started:
