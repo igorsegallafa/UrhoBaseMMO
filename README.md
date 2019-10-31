@@ -1,4 +1,4 @@
-# Urho MMO
+# UrhoMMO
 ###### Incomplete project, only for studies.
 
 Features I've started:
